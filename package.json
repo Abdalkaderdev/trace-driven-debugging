@@ -1,0 +1,19 @@
+{
+  "name": "trace-driven-debugging",
+  "version": "0.1.0",
+  "private": true,
+  "description": "Agent Skill that makes coding agents debug from real runtime traces via the runlens MCP server",
+  "license": "MIT",
+  "author": "abdalkaderdev",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Abdalkaderdev/trace-driven-debugging.git"
+  },
+  "type": "module",
+  "engines": {
+    "node": ">=20"
+  },
+  "scripts": {
+    "test": "node --test"
+  }
+}

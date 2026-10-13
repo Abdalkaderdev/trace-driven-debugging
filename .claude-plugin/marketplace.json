@@ -1,0 +1,17 @@
+{
+  "name": "trace-driven-debugging",
+  "description": "Debug from runtime traces instead of guessing from code",
+  "owner": {
+    "name": "abdalkaderdev",
+    "url": "https://github.com/Abdalkaderdev"
+  },
+  "plugins": [
+    {
+      "name": "trace-driven-debugging",
+      "source": "./",
+      "description": "Find and fix N+1 queries, sequential outbound calls and server errors from real traces captured by runlens, with before and after numbers",
+      "category": "development",
+      "tags": ["debugging", "opentelemetry", "performance", "mcp"]
+    }
+  ]
+}

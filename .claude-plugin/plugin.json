@@ -1,0 +1,14 @@
+{
+  "name": "trace-driven-debugging",
+  "displayName": "Trace-Driven Debugging",
+  "version": "0.1.0",
+  "description": "Debug slow endpoints, N+1 queries and server errors from real runtime traces via the runlens MCP server",
+  "author": {
+    "name": "abdalkaderdev",
+    "url": "https://abdalkader.dev"
+  },
+  "homepage": "https://github.com/Abdalkaderdev/trace-driven-debugging",
+  "repository": "https://github.com/Abdalkaderdev/trace-driven-debugging",
+  "license": "MIT",
+  "keywords": ["debugging", "opentelemetry", "tracing", "n-plus-one", "performance", "mcp", "runlens", "agent-skills"]
+}
